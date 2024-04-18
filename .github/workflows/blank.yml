@@ -118,7 +118,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: mishmanners
+          github_user_name: Hackcessible-a-Tous
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
@@ -205,7 +205,7 @@ Sep 3 '21
 Awsome! How did you change the background-color?
 Reply
  
-mishmanners profile image
+Hackcessible-a-Tous profile image
 •
 Sep 3 '21
 
@@ -219,7 +219,7 @@ Sep 3 '21
 Thank you! actually I was using the .gif version, so I switched to the .svg one and voilá
 Thread
  
-mishmanners profile image
+Hackcessible-a-Tous profile image
 •
 Sep 3 '21
 
@@ -328,7 +328,7 @@ Jan 2 '22 • Edited on Jan 2
 Hi, i did everything right and even got the "build" status. But no output branch was created... why is that? Can someone help me? github.com/laurasiiia
 Reply
  
-mishmanners profile image
+Hackcessible-a-Tous profile image
 •
 Jan 4 '22
 
@@ -443,7 +443,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: mishmanners
+          github_user_name: Hackcessible-a-Tous
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
