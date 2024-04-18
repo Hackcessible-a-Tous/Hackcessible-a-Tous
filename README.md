@@ -23,6 +23,15 @@ Notre mission est de vulgariser le monde de la cybersécurité en fournissant de
 
 Hackcessible à Tous s'engage à créer un écosystème numérique plus sûr pour tous. Rejoignez nous dans notre mission afin de faire de la cybersécurité une priorité mondiale. Ensemble, nous pouvons transformer les défis numériques en opportunités de renforcement de la sécurité</h2>
 
+###
+
+<h2 align="left">Rejoignez moi ! 🤝 </h3>
+<p align="left">
+<a href="https://linkedin.com/in/linkedin.com/company/hackcessible-à-tous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/company/hackcessible-à-tous" height="100" width="100" /></a>
+  <a href="https://linkedin.com/in/linkedin.com/company/hackcessible-à-tous" target="blank"><img align="center" src="https://imgs.search.brave.com/mqK9rf7SuF0bn81kHzGoChWRywqXQ6OllVMZEkHW6jQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy84/LzgyL1RlbGVncmFt/X2xvZ28uc3Zn.svg" alt="linkedin.com/company/hackcessible-à-tous" height="100" width="100" /></a>
+  <a href="https://linkedin.com/in/linkedin.com/company/hackcessible-à-tous" target="blank"><img align="center" src="https://imgs.search.brave.com/LLA6ReZBuDyG2Xoatj7fwaA9Py4pt8I-LgDypYuDOkA/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy84/LzhkL1NpZ25hbC1M/b2dvLnN2Zw.svg" alt="linkedin.com/company/hackcessible-à-tous" height="100" width="100" /></a>
+</p>
+
 ---
 
 ###
@@ -82,13 +91,6 @@ Hackcessible à Tous s'engage à créer un écosystème numérique plus sûr pou
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
 </div>
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="signal logo"  />
-</div>
 
 ###
 
@@ -104,6 +106,10 @@ Hackcessible à Tous s'engage à créer un écosystème numérique plus sûr pou
 </div>
 
 ###
+<div align="center">
+<h1 Nombre de Vue 👀</h1>
+</div>
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Hackcessible-a-Tous/count.svg?"  />
