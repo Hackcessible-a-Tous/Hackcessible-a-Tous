@@ -17,7 +17,7 @@ Notre mission est de vulgariser le monde de la cybersécurité en fournissant de
 
 📘 **Ressources Pédagogiques** : Accédez à nos tutoriels, guides, et outils recommandés pour approfondir vos connaissances en cybersécurité.
 
-🚨 **Veille** : Retrouvez sur notre page LinkedIn toute l'Hacktualité ! des informations incroyables sur le cyberespace. De la présentation de nouveaux outils à la découverte de failles, en passant par l'actualité géopolitique et les avancées en intelligence artificielle, nous vous tenons informés des dernières tendances et développements dans le domaine de la cybersécurité.
+🚨 **Veille** : Retrouvez sur notre page <a href="https://linkedin.com/in/linkedin.com/company/hackcessible-à-tous">LinkedIn</a> toute l'Hacktualité ! des informations incroyables sur le cyberespace. De la présentation de nouveaux outils à la découverte de failles, en passant par l'actualité géopolitique et les avancées en intelligence artificielle, nous vous tenons informés des dernières tendances et développements dans le domaine de la cybersécurité.
 
 <h2>Engagez-vous pour un Avenir Sécurisé! 🌐🔐</h2>
 
