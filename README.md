@@ -1,5 +1,7 @@
+<p align="center">
+<img src="Logo_HT.png" alt="Logo" width="500">
+</p>
 
-<img src="image/Logo.png" alt="Logo">
 
 <h2>Qui Sommes-Nous ?</h2>
 
