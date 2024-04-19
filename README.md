@@ -5,7 +5,7 @@
 
 <h2>Qui Sommes-Nous ?</h2>
 
-Chez Hackcessible à Tous, nous croyons fermement que la meilleure défense contre les cybermenaces commence par une connaissance approfondie des techniques d'attaques. C'est pourquoi nous nous consacrons à fournir des ressources éducatives de haute qualité, des formations avancées en cybersécurité, et des conseils pratiques pour renforcer la résilience numérique de votre organisation.
+Chez Hackcessible à Tous, nous sommes convaincus que la meilleure défense commence par une compréhension approfondie des techniques tactiques et des procédures d'attaques, ainsi que des aspects cruciaux tels que les réseaux et les méthodes de la blue team. C'est pourquoi nous nous engageons à fournir des ressources éducatives de haute qualité, des formations avancées en cybersécurité, et des conseils pratiques pour renforcer la résilience numérique de votre organisation.
 
 <h2>Notre Mission 👨‍💻🛡️</h2>
 
