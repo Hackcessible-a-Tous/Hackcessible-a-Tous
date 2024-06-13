@@ -6,7 +6,7 @@
 <!-- [Ceci est un commentaire en HTML](https://readme-typing-svg.demolab.com/demo/) -->
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=73BBF7&center=true&vCenter=true&multiline=true&random=false&width=1000&height=100&lines=Salut+!++%F0%9F%91%8B;Bienvenue+sur+notre+page+%F0%9F%A4%97;Visite+notre+gitbook+%F0%9F%93%9A)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=73BBF7&center=true&vCenter=true&multiline=true&random=false&width=1000&height=100&lines=Salut+!++%F0%9F%91%8B;Bienvenue+sur+notre+page+%F0%9F%A4%97;Visite+notre+gitbook+%F0%9F%93%9A)
 
 
 
