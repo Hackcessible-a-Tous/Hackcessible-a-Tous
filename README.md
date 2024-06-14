@@ -124,18 +124,35 @@ Rejoignez Nous ! 🤝  </h3>
 
 <!-- Rejoignez Nous ! 🤝 - LIEN + IMAGES -->
 
-<h2 align="left"> </h2>
+
 
 <p align="center">
- <a href="https://example.com/iame](https://hackcessible.gitbook.io/hackcessible-a-tous/" title="💻 Gitbook"><img src="/images/gitbook.png" alt="Cert" width="150px" height="150px" /></a>
- <a href="https://linkedin.com/in/linkedin.com/company/hackcessible-à-tous" title="💻 Gitbook"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Cert" width="150px" height="150px" /></a>
- <a href="https://example.com/iame](https://hackcessible.gitbook.io/hackcessible-a-tous/" title="💻 Gitbook"><img src="https://imgs.search.brave.com/mqK9rf7SuF0bn81kHzGoChWRywqXQ6OllVMZEkHW6jQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy84/LzgyL1RlbGVncmFt/X2xvZ28uc3Zn.svg" alt="Cert" width="150px" height="150px" /></a>
- <a href="https://example.com/iame](https://hackcessible.gitbook.io/hackcessible-a-tous/" title="💻 Gitbook"><img src="https://imgs.search.brave.com/LLA6ReZBuDyG2Xoatj7fwaA9Py4pt8I-LgDypYuDOkA/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy84/LzhkL1NpZ25hbC1M/b2dvLnN2Zw.svg" alt="Cert" width="150px" height="150px" /></a>
+ <a href="https://example.com/iame](https://hackcessible.gitbook.io/hackcessible-a-tous/" title="💻 Gitbook"><img src="/images/gitbook.png" alt="Cert" width="130px" height="130px" /></a>
+ <a href="https://linkedin.com/in/linkedin.com/company/hackcessible-à-tous" title="💻 Gitbook"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Cert" width="130px" height="130px" /></a>
+ <a href="https://example.com/iame](https://hackcessible.gitbook.io/hackcessible-a-tous/" title="💻 Gitbook"><img src="https://imgs.search.brave.com/mqK9rf7SuF0bn81kHzGoChWRywqXQ6OllVMZEkHW6jQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy84/LzgyL1RlbGVncmFt/X2xvZ28uc3Zn.svg" alt="Cert" width="130px" height="130px" /></a>
+ <a href="https://example.com/iame](https://hackcessible.gitbook.io/hackcessible-a-tous/" title="💻 Gitbook"><img src="https://imgs.search.brave.com/LLA6ReZBuDyG2Xoatj7fwaA9Py4pt8I-LgDypYuDOkA/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy84/LzhkL1NpZ25hbC1M/b2dvLnN2Zw.svg" alt="Cert" width="130px" height="130px" /></a>
 </p>
 
+<!-- Stats - TITRE -->
 
+<a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+ 
 
----
+<h3 align="center">
+ <a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a>
+ 
+ <a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   </a>
+Statistiques </h3>
+
+<a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
 
 ###
 
@@ -209,16 +226,42 @@ Rejoignez Nous ! 🤝  </h3>
 </div>
 
 ###
-<div align="center">
-<h1 Nombre de Vue 👀</h1>
-</div>
+<!-- Nombres de vue  - TITRE -->
 
-<div align="center">
-  <h2>Nombre de Vue 👀</h2>
-</div>
+<a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+ 
+
+<h3 align="center">
+ <a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a>
+ 
+ <a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   </a>
+  Nombre de Vue 👀
+</h3>
+
+<a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
+
+<!-- Nombres de vue  - logo -->
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Hackcessible-a-Tous/count.svg?"  />
 </div>
 
+<!-- Nombres de vue  - logo - TEST -->
+<div align="center">
+<a href="" title="compteurs visiteurs"><img src="https://counter4.optistats.ovh/private/compteurdevisite.php?c=c84l346ulfdeakh9n7e28jh6px1dr324" border="0" title="compteurs visiteurs gratuits" alt="compteurs visiteurs gratuits"></a>
+</div> 
+<!-- Message de fin -->
+
+
 ###
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2999&pause=3000&center=true&random=false&width=470&lines=Merci+d'avoir+visit%C3%A9+notre+page+!+%F0%9F%8E%89%F0%9F%8E%86" alt="Typing SVG" /></a>
+</div>
