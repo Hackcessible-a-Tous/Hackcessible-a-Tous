@@ -1,24 +1,81 @@
+
+<!-- logo -->
+ 
 <p align="center">
 <img src="Logo_HT.png" alt="Logo" width="500">
 </p>
 
-
-<!-- [Ceci est un commentaire en HTML](https://readme-typing-svg.demolab.com/demo/) -->
+<!-- Animation -->
+<!-- (https://readme-typing-svg.demolab.com/demo/) -->
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1900&pause=&color=73BBF7&center=true&vCenter=true&multiline=true&random=false&width=1100&height=100&lines=Salut+!++%F0%9F%91%8B;Bienvenue+sur+notre+page+%F0%9F%A4%97;Visite+notre+gitbook+%F0%9F%93%9A)
 
+<!-- Qui sommes nous ? - TITRE -->
 
+<a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+ 
 
-<h2>Qui Sommes-Nous ?</h2>
+<h3 align="center">
+ <a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a>
+ 
+ <a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   </a>
+ Qui sommes nous ?
+</h3>
+
+<a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
+
+<!-- Qui sommes nous ? - TEXTE -->
 
 Chez Hackcessible à Tous, nous sommes convaincus que la meilleure défense commence par une compréhension approfondie des techniques tactiques et des procédures d'attaques, ainsi que des aspects cruciaux tels que les réseaux et les méthodes de la blue team. C'est pourquoi nous nous engageons à fournir des ressources éducatives de haute qualité, des formations avancées en cybersécurité, et des conseils pratiques pour renforcer la résilience numérique de votre organisation.
 
-<h2>Notre Mission 👨‍💻🛡️</h2>
+<!-- Notre Mission - TITRE -->
+
+<a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
+<h3 align="center">
+ <a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
+    </a>
+
+Notre Mission 👨‍💻🛡️</h3>
+
+<a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
+  
+<!-- Notre Mission ? - TEXTE -->
 
 Notre mission est de vulgariser le monde de la cybersécurité en fournissant des informations claires, des stratégies éprouvées, et des pratiques exemplaires. Nous visons à autonomiser les individus et les entreprises en les armant avec les connaissances nécessaires pour anticiper, prévenir, et contrer les menaces en ligne.
 
-<h2>Ce Que Nous Offrons 💡</h2>
+<!-- Ce Que Nous Offrons  - TITRE -->
+
+<a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+ 
+
+<h3 align="center">
+ <a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
+    </a>
+
+Ce Que Nous Offrons 💡</h3>
+
+<a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
+
+<!-- Ce Que Nous Offrons  - TEXT-->
+
 
 🎓 **Formations Avancées**: Explorez nos programmes de formation interactifs qui couvrent un large éventail de sujets, de l'énumération et l'exploitation à la sécurisation avancée des réseaux.
 
