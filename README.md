@@ -2,7 +2,7 @@
 <!-- logo -->
  
 <p align="center">
-<img src="Logo_HT.png" alt="Logo" width="500">
+<img src="images/Logo_HT.png" alt="Logo" width="500">
 </p>
 
 <!-- Animation -->
@@ -26,7 +26,7 @@
  <a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
    </a>
- Qui sommes nous ?
+  Qui sommes nous ? 
 </h3>
 
 <a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
@@ -47,7 +47,7 @@ Chez Hackcessible à Tous, nous sommes convaincus que la meilleure défense comm
  <a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
     </a>
 
-Notre Mission 👨‍💻🛡️</h3>
+Notre Mission </h3>
 
 <a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
@@ -68,7 +68,7 @@ Notre mission est de vulgariser le monde de la cybersécurité en fournissant de
  <a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
     </a>
 
-Ce Que Nous Offrons 💡</h3>
+Ce Que Nous Offrons </h3>
 
 <a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
@@ -83,19 +83,65 @@ Ce Que Nous Offrons 💡</h3>
 
 🚨 **Veille** : Retrouvez sur notre page <a href="https://linkedin.com/company/hackcessible-%C3%A0-tous/">LinkedIn</a> toute l'Hacktualité ! des informations incroyables sur le cyberespace. De la présentation de nouveaux outils à la découverte de failles, en passant par l'actualité géopolitique et les avancées en intelligence artificielle, nous vous tenons informés des dernières tendances et développements dans le domaine de la cybersécurité.
 
-<h2>Engagez-vous pour un Avenir Sécurisé! 🌐🔐</h2>
+<!-- Engagez-vous pour un Avenir Sécurisé! - TITRE -->
+
+<a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+ 
+
+<h3 align="center">
+ <a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
+    </a>
+
+Engagez-vous pour un Avenir Sécurisé!  </h3>
+
+<a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
+
+<!-- Engagez-vous pour un Avenir Sécurisé! - TEXT -->
 
 Hackcessible à Tous s'engage à créer un écosystème numérique plus sûr pour tous. Rejoignez nous dans notre mission afin de faire de la cybersécurité une priorité mondiale. Ensemble, nous pouvons transformer les défis numériques en opportunités de renforcement de la sécurité</h2>
 
 ###
+<!-- Rejoignez Nous ! 🤝 - TITRE -->
 
-<h2 align="left">Rejoignez Nous ! 🤝 </h3>
+<a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+ 
+
+<h3 align="center">
+ <a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
+    </a>
+
+Rejoignez Nous ! 🤝  </h3>
+
+<a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
+
+<!-- Rejoignez Nous ! 🤝 - LIEN + IMAGES -->
+
+<h2 align="left"> </h2>
+
 <p align="left">
-<a href="https://linkedin.com/company/hackcessible-%C3%A0-tous/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/company/hackcessible-à-tous" height="100" width="100" /></a>
-  <a href="https://linkedin.com/in/linkedin.com/company/hackcessible-à-tous" target="blank"><img align="center" src="https://imgs.search.brave.com/mqK9rf7SuF0bn81kHzGoChWRywqXQ6OllVMZEkHW6jQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy84/LzgyL1RlbGVncmFt/X2xvZ28uc3Zn.svg" alt="linkedin.com/company/hackcessible-à-tous" height="100" width="100" /></a>
-  <a href="https://linkedin.com/in/linkedin.com/company/hackcessible-à-tous" target="blank"><img align="center" src="https://imgs.search.brave.com/LLA6ReZBuDyG2Xoatj7fwaA9Py4pt8I-LgDypYuDOkA/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy84/LzhkL1NpZ25hbC1M/b2dvLnN2Zw.svg" alt="linkedin.com/company/hackcessible-à-tous" height="100" width="100" /></a>
+     <a href="https://example.com/iame](https://hackcessible.gitbook.io/hackcessible-a-tous/" target="_blank">
+        <img align="center" src="images/gitbook.png" alt="iame" height="100" width="100" />
+    </a>
+    <a href="https://linkedin.com/company/hackcessible-%C3%A0-tous/" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/company/hackcessible-à-tous" height="100" width="100" />
+    </a>
+    <a href="https://linkedin.com/in/linkedin.com/company/hackcessible-à-tous" target="blank">
+        <img align="center" src="https://imgs.search.brave.com/mqK9rf7SuF0bn81kHzGoChWRywqXQ6OllVMZEkHW6jQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy84/LzgyL1RlbGVncmFt/X2xvZ28uc3Zn.svg" alt="linkedin.com/company/hackcessible-à-tous" height="100" width="100" />
+    </a>
+    <a href="https://linkedin.com/in/linkedin.com/company/hackcessible-à-tous" target="blank">
+        <img align="center" src="https://imgs.search.brave.com/LLA6ReZBuDyG2Xoatj7fwaA9Py4pt8I-LgDypYuDOkA/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy84/LzhkL1NpZ25hbC1M/b2dvLnN2Zw.svg" alt="linkedin.com/company/hackcessible-à-tous" height="100" width="100" />
+    </a>
 </p>
+
+
 
 ---
 
