@@ -126,19 +126,11 @@ Rejoignez Nous ! 🤝  </h3>
 
 <h2 align="left"> </h2>
 
-<p align="left">
-     <a href="https://example.com/iame](https://hackcessible.gitbook.io/hackcessible-a-tous/" target="_blank">
-        <img align="center" src="images/gitbook.png" alt="iame" height="100" width="100" />
-    </a>
-    <a href="https://linkedin.com/company/hackcessible-%C3%A0-tous/" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/company/hackcessible-à-tous" height="100" width="100" />
-    </a>
-    <a href="https://linkedin.com/in/linkedin.com/company/hackcessible-à-tous" target="blank">
-        <img align="center" src="https://imgs.search.brave.com/mqK9rf7SuF0bn81kHzGoChWRywqXQ6OllVMZEkHW6jQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy84/LzgyL1RlbGVncmFt/X2xvZ28uc3Zn.svg" alt="linkedin.com/company/hackcessible-à-tous" height="100" width="100" />
-    </a>
-    <a href="https://linkedin.com/in/linkedin.com/company/hackcessible-à-tous" target="blank">
-        <img align="center" src="https://imgs.search.brave.com/LLA6ReZBuDyG2Xoatj7fwaA9Py4pt8I-LgDypYuDOkA/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy84/LzhkL1NpZ25hbC1M/b2dvLnN2Zw.svg" alt="linkedin.com/company/hackcessible-à-tous" height="100" width="100" />
-    </a>
+<p align="center">
+ <a href="https://example.com/iame](https://hackcessible.gitbook.io/hackcessible-a-tous/" title="💻 Gitbook"><img src="/images/gitbook.png" alt="Cert" width="150px" height="150px" /></a>
+ <a href="https://linkedin.com/in/linkedin.com/company/hackcessible-à-tous" title="💻 Gitbook"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Cert" width="150px" height="150px" /></a>
+ <a href="https://example.com/iame](https://hackcessible.gitbook.io/hackcessible-a-tous/" title="💻 Gitbook"><img src="https://imgs.search.brave.com/mqK9rf7SuF0bn81kHzGoChWRywqXQ6OllVMZEkHW6jQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy84/LzgyL1RlbGVncmFt/X2xvZ28uc3Zn.svg" alt="Cert" width="150px" height="150px" /></a>
+ <a href="https://example.com/iame](https://hackcessible.gitbook.io/hackcessible-a-tous/" title="💻 Gitbook"><img src="https://imgs.search.brave.com/LLA6ReZBuDyG2Xoatj7fwaA9Py4pt8I-LgDypYuDOkA/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy84/LzhkL1NpZ25hbC1M/b2dvLnN2Zw.svg" alt="Cert" width="150px" height="150px" /></a>
 </p>
 
 
